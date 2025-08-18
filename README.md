@@ -1,4 +1,4 @@
 # mern-stack-web-dev
 
-adding something here for fun
+Practice projects as a part of the HCL GUVI AWT integrated course.
 
